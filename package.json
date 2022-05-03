@@ -5,5 +5,9 @@
   "main": "lib/server.js",
   "repository": "https://github.com/dadisahis/advanced-react",
   "author": "Adithya Saish",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-react": "^7.29.4"
+  }
 }
